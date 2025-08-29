@@ -14,6 +14,7 @@ Is a programing language built for math and uses python as a base.
 
 # Specialties
 This language has a specialty as it can take multiple numbers and calulation chained together and automagicly.
+
 ...
 
 
